@@ -69,9 +69,9 @@ namespace SmartSchool_WebAPI.Data
 
             if (includeDiscipline)
             {
-                query = query.Include(p => p.StudentsDisciplines)
-                             .ThenInclude(ad => ad.Discipline)                             
-                             .ThenInclude(d => d.Teacher);
+                query = query.Include(sd => sd.StudentsDisciplines)
+                             .ThenInclude(d => d.Discipline)                             
+                             .ThenInclude(t => t.Teacher);
             }
 
             query = query.AsNoTracking()
@@ -118,7 +118,7 @@ namespace SmartSchool_WebAPI.Data
 
             if (includeDisciplines)
             {
-                query = query.Include(pe => pe.Disciplines);
+                query = query.Include(x => x.Disciplines);
             }
 
             query = query.AsNoTracking()

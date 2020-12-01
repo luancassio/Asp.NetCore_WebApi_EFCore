@@ -32,7 +32,7 @@ private readonly IRepository _repo;
             }
         }
 
-        [HttpGet("{StudentId}")]
+        [HttpGet("Student/{StudentId}")]
         public async Task<IActionResult> getStudentId(int studentId){
             try
             {
@@ -46,6 +46,21 @@ private readonly IRepository _repo;
                 return BadRequest($"Error:{ ex.Message}");
             }
         }
-        
+
+
+        [HttpGet("Discipline/{DisciplineId}")]
+        public async Task<IActionResult> GetByDisciplineId(int disciplineId){
+            try
+            {
+                var result = await _repo.GetStudentAsyncByDisciplineId(disciplineId, true);
+                return Ok(result);
+                
+            }
+            catch (Exception ex)
+            {
+                
+                return BadRequest($"Error:{ ex.Message}");
+            }
+        }
     }
 }

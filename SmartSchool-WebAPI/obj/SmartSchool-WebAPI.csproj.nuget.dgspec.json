@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Luan Cássio\\Desktop\\Project-Angular\\SmartSchool-WebApi\\SmartSchool-WebAPI.csproj": {}
+    "C:\\Users\\Luan Cássio\\Desktop\\Project-Angular\\SmartSchool-WebAPI\\SmartSchool-WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Luan Cássio\\Desktop\\Project-Angular\\SmartSchool-WebApi\\SmartSchool-WebAPI.csproj": {
+    "C:\\Users\\Luan Cássio\\Desktop\\Project-Angular\\SmartSchool-WebAPI\\SmartSchool-WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luan Cássio\\Desktop\\Project-Angular\\SmartSchool-WebApi\\SmartSchool-WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Luan Cássio\\Desktop\\Project-Angular\\SmartSchool-WebAPI\\SmartSchool-WebAPI.csproj",
         "projectName": "SmartSchool-WebAPI",
-        "projectPath": "C:\\Users\\Luan Cássio\\Desktop\\Project-Angular\\SmartSchool-WebApi\\SmartSchool-WebAPI.csproj",
+        "projectPath": "C:\\Users\\Luan Cássio\\Desktop\\Project-Angular\\SmartSchool-WebAPI\\SmartSchool-WebAPI.csproj",
         "packagesPath": "C:\\Users\\Luan Cássio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luan Cássio\\Desktop\\Project-Angular\\SmartSchool-WebApi\\obj\\",
+        "outputPath": "C:\\Users\\Luan Cássio\\Desktop\\Project-Angular\\SmartSchool-WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

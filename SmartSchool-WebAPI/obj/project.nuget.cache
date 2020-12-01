@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bjdSnkfzbteg/FYEtwUH7hjQZngDN1ZCi2QcOhQPSw487CtEW1WfmLRtqb6wsrzKAz31DaCeaYtR2u5XGa1W9g==",
+  "dgSpecHash": "lq16ibd99loEEf/Oi7pgQSCiis/Ufa1fWGmUu+pXdbmb9ZWrHhB6qnRySBFHqPIaZTYd9xhtPF3gYIOXJH7U1Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Luan Cássio\\Desktop\\Project-Angular\\SmartSchool-WebApi\\SmartSchool-WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\Luan Cássio\\Desktop\\Project-Angular\\SmartSchool-WebAPI\\SmartSchool-WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luan Cássio\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Luan Cássio\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.10\\microsoft.aspnetcore.jsonpatch.3.1.10.nupkg.sha512",
